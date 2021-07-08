@@ -1,0 +1,23 @@
+body{
+    background:linear-gradient(#126a80,#5f7a79);
+    text-align: center;
+}
+#img1{
+    border-radius: 50%;
+}
+#menu1{
+    list-style:none;
+    right:30px;
+    top:10px;
+    cursor:pointer;
+    font-family:sans-serif;
+    color:cornsilk;
+    margin-left:900px;
+    margin-bottom:20px;
+}
+.items{
+    float:left;
+    list-style:none;
+    padding-left:5px;
+    padding-right:5px;
+}
